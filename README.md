@@ -1,2 +1,2 @@
 # us-campaign-finance
-Cleaning campaign finance data from the U.S. Federal Election Commission for the 2024 elections.
+Cleaning and analyzing campaign finance data from the U.S. Federal Election Commission using the FECfile API.
